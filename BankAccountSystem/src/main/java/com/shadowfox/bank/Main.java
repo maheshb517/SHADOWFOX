@@ -43,7 +43,7 @@ public class Main {
                 System.out.println("Goodbye!");
                 System.exit(0);
             } else {
-                System.out.println("❌ Invalid choice. Please try again.");
+                System.out.println("Invalid choice. Please try again.");
             }
         }
 
